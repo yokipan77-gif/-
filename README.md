@@ -32,3 +32,10 @@ python open_seat.py --tomorrow --area 3 --fire-at "2026-04-23 00:00:05"
 
 MIT（见 `LICENSE`）。你可按需要改为其它许可证。
 "# -" 
+
+# fudan_lib_seat
+
+[![Release](https://img.shields.io/github/v/release/yokipan77-gif/fudan-lib-seat?sort=semver)](https://github.com/yokipan77-gif/fudan-lib-seat/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/yokipan77-gif/fudan-lib-seat/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
+[![Repo](https://img.shields.io/badge/GitHub-fudan--lib--seat-black?logo=github)](https://github.com/yokipan77-gif/fudan-lib-seat)
