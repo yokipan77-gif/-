@@ -11,8 +11,10 @@
 - 可选从 `.env` 读学号并复制到剪贴板（若你更习惯用 Chrome 插件登录，可不用 `.env`）
 - `setup_shortcut.py`：生成桌面快捷方式
 - `register_daily_task.ps1`：注册 Windows 每日计划任务（需自行修改时间与参数）
+## 运行示例
+<img width="900" height="900" alt="ScreenShot_2026-04-22_135632_812" src="https://github.com/user-attachments/assets/468282cb-133b-4923-ab66-d86644a3df92" />
 
-- <img width="1479" height="941" alt="1" src="https://github.com/user-attachments/assets/1d6766f6-232c-4ff0-aa75-ca53364558c3" />
+
 
 
 ## 环境
