@@ -28,22 +28,6 @@ python open_seat.py --tomorrow --area 3 --fire-at "2026-04-23 00:00:05"
 
 复制 `config.example.env` 为 `.env` 仅在需要 `--copy-id` / `--copy-password` 时使用。**切勿**将 `.env` 提交到 Git（已在 `.gitignore` 中忽略）。
 
-## 开源到 GitHub
-
-1. 在 GitHub 新建空仓库（不要勾选自动添加 README，避免首次推送冲突）。
-2. 在本项目目录执行：
-
-```bat
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/你的用户名/仓库名.git
-git push -u origin main
-```
-
-若使用 SSH：`git remote add origin git@github.com:你的用户名/仓库名.git`
-
 ## 许可证
 
 MIT（见 `LICENSE`）。你可按需要改为其它许可证。
